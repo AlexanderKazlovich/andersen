@@ -11,6 +11,7 @@
     <modules>
         <module>weekHashMap</module>
         <module>customClassLoader</module>
+        <module>customLinkedList</module>
     </modules>
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
