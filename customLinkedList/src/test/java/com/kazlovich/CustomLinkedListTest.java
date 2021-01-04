@@ -6,6 +6,7 @@ import static org.junit.Assert.*;
 
 public class CustomLinkedListTest {
 
+
     private CustomLinkedList getList(){
         CustomLinkedList<Long> list = new CustomLinkedList<>();
         list.add(1L);
