@@ -13,5 +13,7 @@ public class Main {
         User user2 = service.doHardWorkElse("petya");
         User user3 = service.doHardWork("vasya");
 
+
+
     }
 }

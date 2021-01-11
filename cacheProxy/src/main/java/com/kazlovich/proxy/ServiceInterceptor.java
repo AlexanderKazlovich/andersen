@@ -4,7 +4,6 @@ import com.kazlovich.annotations.Cache;
 import com.kazlovich.domain.User;
 import net.bytebuddy.implementation.bind.annotation.AllArguments;
 import net.bytebuddy.implementation.bind.annotation.Origin;
-
 import java.io.File;
 import java.io.IOException;
 import java.lang.reflect.Method;
