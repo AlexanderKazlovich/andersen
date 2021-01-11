@@ -9,6 +9,5 @@ public class Main {
         Thread cons = new Thread(consumer);
         prod.start();
         prod.start();
-
     }
 }

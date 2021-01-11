@@ -6,7 +6,6 @@ public class Producer implements Runnable{
     public Producer(Buffer<Integer> buffer) {
         this.buffer = buffer;
     }
-
     @Override
     public void run() {
         int value = 0;
@@ -17,3 +16,4 @@ public class Producer implements Runnable{
             }
     }
 }
+
